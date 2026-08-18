@@ -6,8 +6,7 @@ return (
   <div
     className="w-full h-screen flex flex-wrap justify-center items-center bg-cover bg-no-repeat"
     style={{
-      // backgroundImage: `url('${BackgroundImage}')`,
-
+      backgroundImage: "url('/cc-bg.jpg')",
     }}
   >
     <div className="w-full">
